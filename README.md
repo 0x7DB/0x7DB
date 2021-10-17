@@ -6,9 +6,11 @@
 -->
 -Fucking Inflatable Fucking Crown
 
--Currently Working On: **A Fucking Forgehax Skid**
+-No Longer Working On: **A Fucking Forgehax Skid**
 
--Attempting to Comprehend: Vim
+-Now Working On: FurryWare
+
+-Has Comprehended: Vim
 
 -Architecture: PowerPC-32 *(Occasionally x86)*
 
