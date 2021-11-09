@@ -6,7 +6,7 @@
 -->
 -This is where the terrible bit comes in.
 
--No Longer Working On: **A Forgehax Skid**
+-No Longer Working On: **A Forgehax Copy**
 
 -Now Working On: FurryWare+
 
