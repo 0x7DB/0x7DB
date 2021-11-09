@@ -1,14 +1,14 @@
-### i Develop Shit
+### i Develop Stuff
 
 <!--
 
 
 -->
--Fucking Inflatable Fucking Crown
+-This is where the terrible bit comes in.
 
--No Longer Working On: **A Fucking Forgehax Skid**
+-No Longer Working On: **A Forgehax Skid**
 
--Now Working On: FurryWare
+-Now Working On: FurryWare+
 
 -Has Comprehended: Vim
 
