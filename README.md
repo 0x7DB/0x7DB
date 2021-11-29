@@ -6,9 +6,9 @@
 -->
 -This is where the terrible bit comes in.
 
--No Longer Working On: **A Forgehax Copy** *FurryWare+*
+-No Longer Working On: **A Forgehax Copy** *FurryWare+*, *FurryWare++*
 
--Now Working On: FurryWare++
+-Now Working On: FurryWare+++
 
 -Has Comprehended: Vim
 
