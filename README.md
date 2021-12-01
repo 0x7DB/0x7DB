@@ -14,3 +14,5 @@
 
 -Architecture: PowerPC-32 *(Occasionally x86)*
 
+-Hates: Talking Toasters.
+
