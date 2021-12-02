@@ -10,9 +10,9 @@
 
 -Now Working On: FurryWare+++
 
--Has Comprehended: Vim
+-Has Comprehended: Vim, Edit and Nano.
 
--Architecture: PowerPC-32 *(Occasionally x86)*
+-Architecture: x86
 
--Hates: Talking Toasters.
+-Hates: Talking Toasters, javac.
 
