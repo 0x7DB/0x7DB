@@ -12,7 +12,7 @@
 
 -Has Comprehended: Vim, Edit and Nano.
 
--Architecture: x86
+-Architecture: armhf. (x86 when natives don't cooperate.)
 
 -Hates: Talking Toasters, javac.
 
