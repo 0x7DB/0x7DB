@@ -8,7 +8,7 @@
 
 -No Longer Working On: **A Forgehax Copy** *FurryWare+*, *FurryWare++* FurryWare+++
 
--Now Working On: FurryWare-Rewrite (No, this is not gonna be publically released.)
+-Now Working On: UnsafeWare, Custom Security Measures. (**I LOVE CHECKSUMS AND PARITY CHECKS!**)
 
 -Has Comprehended: Vim, Edit and Nano.
 
