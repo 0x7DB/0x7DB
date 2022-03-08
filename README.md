@@ -15,6 +15,3 @@
 -Architecture: armhf. (x86 when natives don't cooperate.)
 
 -Hates: Talking Toasters, javac.
-
--all you had to do was follow the damn train cj!
-
