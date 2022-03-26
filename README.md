@@ -6,9 +6,9 @@
 -->
 -This is where the terrible bit comes in.
 
--No Longer Working On: **A Forgehax Copy** *FurryWare+*, *FurryWare++* FurryWare+++
+-No Longer Working On: I've had enough. No more anarchy, No more minecraft.
 
--Now Working On: UnsafeWare, Custom Security Measures. (**I LOVE CHECKSUMS AND PARITY CHECKS!**)
+-Now Working On: Absolutely Nothing.
 
 -Has Comprehended: Vim, Edit and Nano.
 
