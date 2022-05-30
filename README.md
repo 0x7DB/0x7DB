@@ -6,9 +6,9 @@
 -->
 -This is where the terrible bit comes in.
 
--No Longer Working On: I've had enough. No more anarchy, No more minecraft.
+-No Longer Working On: FurryWare.
 
--Now Working On: Absolutely Nothing.
+-Now Working On: BaseBand.
 
 -Has Comprehended: Vim, Edit and Nano.
 
