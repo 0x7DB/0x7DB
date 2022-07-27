@@ -6,12 +6,12 @@
 -->
 -This is where the terrible bit comes in.
 
--No Longer Working On: FurryWare.
+-It's Bloody Summer Innit?
 
--Now Working On: BaseBand.
+-BaseBand.
 
--Has Comprehended: Vim, Edit and Nano.
+-Emacs.
 
--Architecture: armhf. (x86 when natives don't cooperate.)
+-PowerPC moment.
 
--Hates: Talking Toasters, javac.
+-Would anyone like some toast?
