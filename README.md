@@ -13,3 +13,8 @@ I Develop Things
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PowerPC_logo.svg/2560px-PowerPC_logo.svg.png" title="PowerPC" alt="ppc" width="130" height="30"/>&nbsp;
  
 </div>
+
+
+### Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x7DB&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
