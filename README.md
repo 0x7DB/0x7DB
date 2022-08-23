@@ -11,4 +11,5 @@ I Develop Things
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PowerPC_logo.svg/2560px-PowerPC_logo.svg.png" title="PowerPC" alt="ppc" width="130" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
