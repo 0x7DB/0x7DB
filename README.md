@@ -17,4 +17,4 @@ I Develop Things
 
 ### Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x7DB&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x7DB&theme=dark&hide_border=true)](https://git.io/streak-stats)
