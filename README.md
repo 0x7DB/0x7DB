@@ -22,4 +22,4 @@ Death to C#
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JessSystemV&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<a rel="me" href="https://masto.meowly.org/@Jess">Mastodon?</a>
+<a rel="me" href="https://masto.meowly.org/@jess">Mastodon</a>
