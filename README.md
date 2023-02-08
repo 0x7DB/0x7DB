@@ -1,7 +1,7 @@
 <h1>
 I Develop Things
 </h1>
-<img src="https://komarev.com/ghpvc/?username=0x7DB&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=JessSystemV&style=flat-square&color=blue" alt=""/>
 
 
 Death to C#
@@ -18,6 +18,6 @@ Death to C#
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=0x7DB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=JessSystemV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x7DB&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JessSystemV&theme=dark&hide_border=true)](https://git.io/streak-stats)
