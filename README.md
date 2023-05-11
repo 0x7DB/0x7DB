@@ -4,8 +4,7 @@ I (attempt to) develop things
 <img src="https://komarev.com/ghpvc/?username=JessSystemV&style=flat-square&color=blue" alt=""/>
 
 
-Death to C#
-You shouldn't be here. 
+Fucking inflatable fucking crown
 
 ### I Use :
 <div>
