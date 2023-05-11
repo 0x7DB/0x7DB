@@ -1,11 +1,11 @@
 <h1>
-I Develop Things
+I (attempt to) develop things
 </h1>
 <img src="https://komarev.com/ghpvc/?username=JessSystemV&style=flat-square&color=blue" alt=""/>
 
 
 Death to C#
-
+You shouldn't be here. 
 
 ### I Use :
 <div>
