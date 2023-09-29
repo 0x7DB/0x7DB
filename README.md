@@ -1,10 +1,10 @@
 <h1>
-Thank you and goodnight
+You understand mechanical hands,
 </h1>
 <img src="https://komarev.com/ghpvc/?username=JessSystemV&style=flat-square&color=blue" alt=""/>
 
 <h1>
-I'll be seeing you when I'll be seeing you
+Are the ruler of everything, Are the ruler of everything, In the end.
 </h1>
 ### I Use :
 <div>
@@ -17,8 +17,8 @@ I'll be seeing you when I'll be seeing you
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JessSystemV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![ ](https://github-readme-stats.vercel.app/api?username=JessSystemV&show_icons=true&theme=dracula)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JessSystemV&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![_](https://streak-stats.demolab.com/?user=JessSystemV)](https://git.io/streak-stats)
 
 
